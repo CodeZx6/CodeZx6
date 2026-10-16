@@ -2,6 +2,9 @@
 
 Paper pages with summaries, quoted results and BibTeX: **https://codezx6.github.io**
 
+**Expressive humanoid robots**
+- [Facial Expression and Behavior Modeling from Digital Avatars to Expressive Humanoid Robots: A Review](https://codezx6.github.io/papers/expressive-humanoid-faces-survey.html) (ACM Computing Surveys 2026) · [curated paper list](https://github.com/CodeZx6/Awesome-Expressive-Humanoid-Faces)
+
 **Speech emotion recognition and emotional TTS**
 - [DUET](https://codezx6.github.io/papers/duet.html): plug-and-play emotion control for pretrained diffusion and flow-matching TTS (arXiv:2606.00066)
 - [PhysioSER](https://codezx6.github.io/papers/physioser.html): physiology-informed speech emotion recognition, 14 datasets, 10 languages (arXiv:2602.13259)
